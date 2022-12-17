@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "discord.js": "12"
+  },
+  "scripts": {
+    "dev": "node ."
+  }
+}
